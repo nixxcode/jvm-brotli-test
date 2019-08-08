@@ -1,5 +1,5 @@
 .idea
-jvm-brotli-example.iml
+*.iml
 
 src/encoded.br
 src/decoded.txt
